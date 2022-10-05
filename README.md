@@ -1,3 +1,3 @@
-# Discourse Tag Icons
+# Discourse Tag Bubbles
 
-Adds icon to your tags. See https://meta.discourse.org/t/tag-icons-component/109757 for instructions. 
+This is a fork of Discourse Tag Icons
